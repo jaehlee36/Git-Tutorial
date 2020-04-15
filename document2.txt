@@ -1,2 +1,2 @@
-Hello git2
-remove document.txt.txt 
+Hello git  new!
+testing to change the message of commit
