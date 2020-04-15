@@ -1,2 +1,4 @@
 Hello git  new!
 testing to change the message of commit
+
+git config test
